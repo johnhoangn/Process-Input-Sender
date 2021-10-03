@@ -1,0 +1,16 @@
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\bin\Debug\net5.0\Process-Input-Sender.exe
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\bin\Debug\net5.0\Process-Input-Sender.deps.json
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\bin\Debug\net5.0\Process-Input-Sender.runtimeconfig.json
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\bin\Debug\net5.0\Process-Input-Sender.runtimeconfig.dev.json
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\bin\Debug\net5.0\Process-Input-Sender.dll
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\bin\Debug\net5.0\ref\Process-Input-Sender.dll
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\bin\Debug\net5.0\Process-Input-Sender.pdb
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\Process-Input-Sender.csproj.AssemblyReference.cache
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\Process-Input-Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\Process-Input-Sender.AssemblyInfoInputs.cache
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\Process-Input-Sender.AssemblyInfo.cs
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\Process-Input-Sender.csproj.CoreCompileInputs.cache
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\Process-Input-Sender.dll
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\ref\Process-Input-Sender.dll
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\Process-Input-Sender.pdb
+C:\Users\johnh\Documents\VSC\Process-Input-Sender\obj\Debug\net5.0\Process-Input-Sender.genruntimeconfig.cache
